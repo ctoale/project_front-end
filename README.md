@@ -52,7 +52,4 @@ This was the largest project we had undertaken involving the use of all our fron
   * Work on some smaller things, such as our social media buttons or our newsletter
 
 ## Authors
-  Brandon Hernandez
-  Khanh Vu
-  Brian Lafuente
-  Connor Toale
+  Brandon Hernandez, Khanh Vu, Brian Lafuente, Connor Toale
