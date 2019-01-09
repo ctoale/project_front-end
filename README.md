@@ -2,7 +2,7 @@
 A website that allows you to easily explore the many aspects of a vacation.
 
 ## Contents
-  * Game Description
+  * Website Description
   * Technology Used
   * Challenges and Solutions
   * Future Goals
